@@ -1,3 +1,5 @@
+> 开发和发布已迁移至 [pi-extensions/packages/pi-pleat](https://github.com/ZhenHuangLab/pi-extensions/tree/main/packages/pi-pleat)。后续修改和问题反馈请使用新仓库。
+
 <h1 align="center">pi-pleat</h1>
 
 <p align="center">
